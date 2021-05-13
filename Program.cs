@@ -21,7 +21,6 @@ namespace Lab5
 
 public abstract class Bank
 {
-    public decimal Bank_A = 100;
     public abstract void getBalance();
 
 }
